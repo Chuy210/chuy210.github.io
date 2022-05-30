@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["contact"],{ea79:function(a,t,n){"use strict";n.r(t);var e=function(){var a=this,t=a.$createElement,n=a._self._c||t;return n("v-app",{staticClass:"contact"},[n("NavHeader"),n("Contact")],1)},c=[],o=n("cce9"),r=n("371a"),s={components:{Contact:r["a"],NavHeader:o["a"]},data:function(){return{}}},p=s,u=n("2877"),l=n("6544"),i=n.n(l),d=n("7496"),w=Object(u["a"])(p,e,c,!1,null,null,null);t["default"]=w.exports;i()(w,{VApp:d["a"]})}}]);
+//# sourceMappingURL=contact.8e205fb3.js.map
